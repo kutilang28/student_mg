@@ -21,7 +21,11 @@ lerna-debug.log*
 # Tests
 /coverage
 /.nyc_output
-
+# AI Agents & Editor Configs
+.agents/
+.claude/
+.cursor/
+.devin/
 # IDEs and editors
 /.idea
 .project
